@@ -18,4 +18,11 @@ Face Recogntion library: Opencv, face_recognition<br/>
 1. Landing Page after Login:
  ![image](https://user-images.githubusercontent.com/78153956/170820589-98bce7d8-e809-4bb4-8783-04102bcbb9e3.png)
  ![image](https://user-images.githubusercontent.com/78153956/170820606-ddde81b4-2315-4f39-bafb-81f264298b2a.png)
+ 
+2. About us Page:
+ <img width="1432" alt="image" src="https://user-images.githubusercontent.com/78153956/170820692-5d54b6dd-71b1-49c2-b943-4418c856e950.png">
+
+3. Contact Us and Connect with Us Page:
+ <img width="1416" alt="image" src="https://user-images.githubusercontent.com/78153956/170820710-6dfe3e0f-3273-4803-bbba-f43295a4c068.png">
+
 
