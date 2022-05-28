@@ -29,8 +29,9 @@ Face Recogntion library: Opencv, face_recognition<br/>
 #### Instructions:
 1. git clone https://github.com/sonanshi-0209/Microsoft-Engage-2022.git
 2. npm install
-3. pip install -r "requirements.txt"
-4. To run the application: run the command python facewithvideo.py server
+3. node index.js
+4. pip install -r "requirements.txt"
+5. To run the application: run the command python facewithvideo.py server
 
 ### Note:
 It may take 2 to 3 seconds more to perform operations .
