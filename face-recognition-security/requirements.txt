@@ -1,0 +1,6 @@
+pillow
+cv2
+face_recognition
+os
+time
+sys
