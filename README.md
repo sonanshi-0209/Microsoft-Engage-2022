@@ -16,4 +16,6 @@ Face Recogntion library: Opencv, face_recognition<br/>
 #### Features & Interfaces (Glimpses of Web Application):
 
 1. Landing Page after Login:
- <img src="/Users/sonanshigoel/Desktop" width="350" title="hover text">
+ ![image](https://user-images.githubusercontent.com/78153956/170820589-98bce7d8-e809-4bb4-8783-04102bcbb9e3.png)
+ ![image](https://user-images.githubusercontent.com/78153956/170820606-ddde81b4-2315-4f39-bafb-81f264298b2a.png)
+
