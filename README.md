@@ -2,7 +2,7 @@
 #### Description: 
 OLARM is a Home security Website that is enabled in cameras to recognize the face of home members that has been added in the database. If the person trying to enter the home is an outsider/stranger the owner will be notified via mail.
 
-Facial Recognition Features:
+#### Facial Recognition Features:
 
 1. As the user clicks the identify me button, the camera window would open up and the face will be captured for comparing with the already existing set of pictures.
 
