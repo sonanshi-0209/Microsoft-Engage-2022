@@ -1,12 +1,10 @@
 # OLARM- Home Security System that only allows identied people to enter the house.
 #### Description: 
-Sugar Town is an e-commerce dessert store in which you can order desserts online. It has login, add to cart, secure payment checkout, order history viewing and once the order is placed you receive email notification about the order details and alert about the amount deducted from wallet.
+OLARM is a Home security Website that is enabled in cameras to recognize the face of home members that has been added in the database. If the person trying to enter the home is an outsider/stranger the owner will be notified via mail.
 
 Facial Recognition Features:
 
-1. At the time of Login Face is captured and matched with face associated with the account
-2. At the time of transferring money to sugartown wallet face recognition is done
-3. At the time of checkout while placing order face recognition is done for secure payment transactions
+1. As the user clicks the identify me button, the camera window would open up and the face will be captured for comparing with the already existing set of pictures.
 
 #### Tech Stack:
 Frontend: HTML5, CSS3, Javascript, Bootstrap <br/>
@@ -29,9 +27,12 @@ Face Recogntion library: Opencv, face_recognition<br/>
  <img width="1078" alt="image" src="https://user-images.githubusercontent.com/78153956/170832125-5e3bc6ce-ec27-472f-b07f-1f226fbc1c29.png">
 
 #### Instructions:
-1. git clone
+1. git clone https://github.com/sonanshi-0209/Microsoft-Engage-2022.git
 2. npm install
 3. pip install -r "requirements.txt"
 4. To run the application: run the command python facewithvideo.py server
+
+### Note:
+It may take 2 to 3 seconds more to perform operations .
 
 
