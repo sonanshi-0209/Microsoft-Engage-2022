@@ -25,4 +25,13 @@ Face Recogntion library: Opencv, face_recognition<br/>
 3. Contact Us and Connect with Us Page:
  <img width="1416" alt="image" src="https://user-images.githubusercontent.com/78153956/170820710-6dfe3e0f-3273-4803-bbba-f43295a4c068.png">
 
+4. Camera capturing face photo
+ <img width="1078" alt="image" src="https://user-images.githubusercontent.com/78153956/170832125-5e3bc6ce-ec27-472f-b07f-1f226fbc1c29.png">
+
+#### Instructions:
+1. git clone
+2. npm install
+3. pip install -r "requirements.txt"
+4. To run the application: run the command python facewithvideo.py server
+
 
